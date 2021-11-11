@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Pimpl_Idiom.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Pimpl_Idiom.dir/objects.a @CMakeFiles\Pimpl_Idiom.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Pimpl_Idiom.dir/objects.a -Wl,--no-whole-archive -o Pimpl_Idiom.exe -Wl,--out-implib,libPimpl_Idiom.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Pimpl_Idiom.dir\linklibs.rsp

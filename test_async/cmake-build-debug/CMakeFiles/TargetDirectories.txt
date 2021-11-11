@@ -1,3 +1,0 @@
-D:/DesignPattern/test_async/cmake-build-debug/CMakeFiles/test_async.dir
-D:/DesignPattern/test_async/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/DesignPattern/test_async/cmake-build-debug/CMakeFiles/rebuild_cache.dir

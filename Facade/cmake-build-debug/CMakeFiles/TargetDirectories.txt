@@ -1,3 +1,0 @@
-C:/DesignPattern/Facade/cmake-build-debug/CMakeFiles/Facade.dir
-C:/DesignPattern/Facade/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/DesignPattern/Facade/cmake-build-debug/CMakeFiles/rebuild_cache.dir

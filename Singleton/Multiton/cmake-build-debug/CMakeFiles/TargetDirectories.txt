@@ -1,3 +1,0 @@
-C:/DesignPattern/Singleton/Multiton/cmake-build-debug/CMakeFiles/Multiton.dir
-C:/DesignPattern/Singleton/Multiton/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/DesignPattern/Singleton/Multiton/cmake-build-debug/CMakeFiles/rebuild_cache.dir

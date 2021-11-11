@@ -1,3 +1,0 @@
-C:/DesignPattern/SOLID/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/DesignPattern/SOLID/cmake-build-debug/CMakeFiles/test.dir
-C:/DesignPattern/SOLID/cmake-build-debug/CMakeFiles/edit_cache.dir

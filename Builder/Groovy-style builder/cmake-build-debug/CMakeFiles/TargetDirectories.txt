@@ -1,3 +1,0 @@
-C:/DesignPattern/Groovy-style builder/cmake-build-debug/CMakeFiles/Groovy_style_builder.dir
-C:/DesignPattern/Groovy-style builder/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/DesignPattern/Groovy-style builder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/DesignPattern/Prototype/Prototype Factory/cmake-build-debug/CMakeFiles/Prototype_Factory.dir
-C:/DesignPattern/Prototype/Prototype Factory/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/DesignPattern/Prototype/Prototype Factory/cmake-build-debug/CMakeFiles/rebuild_cache.dir

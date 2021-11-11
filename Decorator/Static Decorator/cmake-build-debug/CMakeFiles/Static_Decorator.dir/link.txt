@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Static_Decorator.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Static_Decorator.dir/objects.a @CMakeFiles\Static_Decorator.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Static_Decorator.dir/objects.a -Wl,--no-whole-archive -o Static_Decorator.exe -Wl,--out-implib,libStatic_Decorator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Static_Decorator.dir\linklibs.rsp

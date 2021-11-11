@@ -1,3 +1,0 @@
-C:/DesignPattern/Composite/Neural Network/cmake-build-debug/CMakeFiles/Neural_Network.dir
-C:/DesignPattern/Composite/Neural Network/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/DesignPattern/Composite/Neural Network/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Builder_Facets.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Builder_Facets.dir/objects.a @CMakeFiles\Builder_Facets.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Builder_Facets.dir/objects.a -Wl,--no-whole-archive -o Builder_Facets.exe -Wl,--out-implib,libBuilder_Facets.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Builder_Facets.dir\linklibs.rsp

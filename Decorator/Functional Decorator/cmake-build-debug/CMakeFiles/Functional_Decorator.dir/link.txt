@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Functional_Decorator.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Functional_Decorator.dir/objects.a @CMakeFiles\Functional_Decorator.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Functional_Decorator.dir/objects.a -Wl,--no-whole-archive -o Functional_Decorator.exe -Wl,--out-implib,libFunctional_Decorator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Functional_Decorator.dir\linklibs.rsp

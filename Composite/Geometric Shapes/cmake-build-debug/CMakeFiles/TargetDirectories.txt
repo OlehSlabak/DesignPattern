@@ -1,3 +1,0 @@
-C:/DesignPattern/Composite/Geometric Shapes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/DesignPattern/Composite/Geometric Shapes/cmake-build-debug/CMakeFiles/Geometric_Shapes.dir
-C:/DesignPattern/Composite/Geometric Shapes/cmake-build-debug/CMakeFiles/edit_cache.dir

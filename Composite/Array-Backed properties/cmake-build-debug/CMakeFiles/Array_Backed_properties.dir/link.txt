@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Array_Backed_properties.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Array_Backed_properties.dir/objects.a @CMakeFiles\Array_Backed_properties.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Array_Backed_properties.dir/objects.a -Wl,--no-whole-archive -o Array_Backed_properties.exe -Wl,--out-implib,libArray_Backed_properties.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Array_Backed_properties.dir\linklibs.rsp

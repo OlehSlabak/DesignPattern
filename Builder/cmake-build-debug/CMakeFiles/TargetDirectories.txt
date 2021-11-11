@@ -1,3 +1,0 @@
-C:/DesignPattern/Builder/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/DesignPattern/Builder/cmake-build-debug/CMakeFiles/Builder.dir
-C:/DesignPattern/Builder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

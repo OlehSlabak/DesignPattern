@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Factory_Method.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Factory_Method.dir/objects.a @CMakeFiles\Factory_Method.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Factory_Method.dir/objects.a -Wl,--no-whole-archive -o Factory_Method.exe -Wl,--out-implib,libFactory_Method.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Factory_Method.dir\linklibs.rsp
