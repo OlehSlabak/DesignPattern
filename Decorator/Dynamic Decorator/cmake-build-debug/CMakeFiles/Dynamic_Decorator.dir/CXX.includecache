@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/DesignPattern/Decorator/Dynamic Decorator/main.cpp
+iostream
+-
+string
+-
+ostream
+-
+sstream
+-
+

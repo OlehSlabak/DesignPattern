@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/DesignPattern/Composite/Neural Network/main.cpp
+cstdio
+-
+vector
+-
+iostream
+-
+boost/predef/library/c.h
+-
+boost/predef/library/c.h
+-
+boost/predef/library/c.h
+-
+

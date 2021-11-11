@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\DesignPattern\Prototype\Prototype Factory"
+-- Found Boost: c:/mingw/include/ (found version "1.71.0") found components: system filesystem 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/DesignPattern/Prototype/Prototype Factory/cmake-build-debug

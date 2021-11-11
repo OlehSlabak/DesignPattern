@@ -1,0 +1,3 @@
+C:/DesignPattern/Bridge/Pimpl Idiom/cmake-build-debug/CMakeFiles/Pimpl_Idiom.dir
+C:/DesignPattern/Bridge/Pimpl Idiom/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DesignPattern/Bridge/Pimpl Idiom/cmake-build-debug/CMakeFiles/rebuild_cache.dir

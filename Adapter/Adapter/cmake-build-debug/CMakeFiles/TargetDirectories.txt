@@ -1,0 +1,3 @@
+C:/DesignPattern/Adapter/Adapter/cmake-build-debug/CMakeFiles/Adapter.dir
+C:/DesignPattern/Adapter/Adapter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DesignPattern/Adapter/Adapter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

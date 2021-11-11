@@ -1,0 +1,3 @@
+D:/DesignPattern/Proxy/Communication Proxy/cmake-build-debug/CMakeFiles/Communication_Proxy.dir
+D:/DesignPattern/Proxy/Communication Proxy/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DesignPattern/Proxy/Communication Proxy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

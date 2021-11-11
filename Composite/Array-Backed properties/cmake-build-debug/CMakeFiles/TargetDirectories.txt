@@ -1,0 +1,3 @@
+C:/DesignPattern/Composite/Array-Backed properties/cmake-build-debug/CMakeFiles/Array_Backed_properties.dir
+C:/DesignPattern/Composite/Array-Backed properties/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DesignPattern/Composite/Array-Backed properties/cmake-build-debug/CMakeFiles/rebuild_cache.dir

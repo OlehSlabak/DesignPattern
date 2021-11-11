@@ -1,0 +1,3 @@
+C:/DesignPattern/Builder/Builder Facets/cmake-build-debug/CMakeFiles/Builder_Facets.dir
+C:/DesignPattern/Builder/Builder Facets/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DesignPattern/Builder/Builder Facets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

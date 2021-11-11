@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/DesignPattern/Factories/Abstract Factory/DrinkFactory.hpp
+hotDrinkFactory.hpp
+C:/DesignPattern/Factories/Abstract Factory/hotDrinkFactory.hpp
+hotDrink.hpp
+C:/DesignPattern/Factories/Abstract Factory/hotDrink.hpp
+map
+-
+string
+-
+functional
+-
+
+C:/DesignPattern/Factories/Abstract Factory/hotDrink.hpp
+memory
+-
+map
+-
+string
+-
+
+C:/DesignPattern/Factories/Abstract Factory/hotDrinkFactory.hpp
+hotDrink.hpp
+C:/DesignPattern/Factories/Abstract Factory/hotDrink.hpp
+
+C:/DesignPattern/Factories/Abstract Factory/main.cpp
+iostream
+-
+DrinkFactory.hpp
+C:/DesignPattern/Factories/Abstract Factory/DrinkFactory.hpp
+string
+-
+

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Singleton.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Singleton.dir/objects.a @CMakeFiles\Singleton.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Singleton.dir/objects.a -Wl,--no-whole-archive -o Singleton.exe -Wl,--out-implib,libSingleton.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Singleton.dir\linklibs.rsp

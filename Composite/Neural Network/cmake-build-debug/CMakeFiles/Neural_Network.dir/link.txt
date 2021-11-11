@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Neural_Network.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Neural_Network.dir/objects.a @CMakeFiles\Neural_Network.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Neural_Network.dir/objects.a -Wl,--no-whole-archive -o Neural_Network.exe -Wl,--out-implib,libNeural_Network.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Neural_Network.dir\linklibs.rsp

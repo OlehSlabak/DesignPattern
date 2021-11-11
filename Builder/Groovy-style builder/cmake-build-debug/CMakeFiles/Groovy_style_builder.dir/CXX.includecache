@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/DesignPattern/Groovy-style builder/main.cpp
+iostream
+-
+cstdio
+-
+string
+-
+vector
+-
+fstream
+-
+tuple
+-
+sstream
+-
+memory
+-
+
