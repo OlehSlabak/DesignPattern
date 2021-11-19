@@ -97,19 +97,20 @@ public:
 
 int main() {
 
-    BankAccount2 ba{100};
-    ba.deposit(50); // 150
-    ba.deposit(25); // 175
+    BankAccount2 ba2{100};
+    ba2.deposit(50); // 150
+    ba2.deposit(25); // 175
 
-    cout << ba << endl;
+    cout << ba2 << endl;
 
-    ba.undo();
-    cout << " Undo 1 :" << ba << endl;
-    ba.undo();
-    cout << " Undo 2 :" << ba << endl;
-    ba.redo();
-    cout << " Redo  :" << ba << endl;
-  /*  BankAccount ba{100};
+    ba2.undo();
+    cout << " Undo 1 :" << ba2 << endl;
+    ba2.undo();
+    cout << " Undo 2 :" << ba2 << endl;
+    ba2.redo();
+    cout << " Redo  :" << ba2 << endl;
+
+    BankAccount ba{100};
     auto m1 = ba.deposit(50); // 150
     auto m2 = ba.deposit(25); // 175
 
@@ -118,6 +119,7 @@ int main() {
     ba.restor(m1);
     cout << "back to m1: " << ba << "\n";
     ba.restor(m2);
-    cout << "back to m2: " << ba << "\n";*/
+    cout << "back to m2: " << ba << "\n";
+
     return 0;
 }
