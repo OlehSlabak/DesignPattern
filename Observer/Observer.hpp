@@ -4,9 +4,11 @@
 
 #ifndef OBSERVER_OBSERVER_HPP
 #define OBSERVER_OBSERVER_HPP
+#include <string>
 
-
-class Observer {
+template<typename T>
+struct Observer {
+virtual void field_changed(T& source, const std::string &field_name) = 0;
 
 };
 

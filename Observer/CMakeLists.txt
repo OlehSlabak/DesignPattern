@@ -3,4 +3,4 @@ project(Observer)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Observer main.cpp)
+add_executable(Observer main.cpp Observer.cpp Observer.hpp Observable.cpp Observable.hpp)
