@@ -1,6 +1,75 @@
 #include <iostream>
+using namespace std;
+class LightSwitch;
+
+struct State
+{
+    virtual void on(LightSwitch *lhs){
+        cout << "Light is already on\n";
+    }
+    virtual void off(LightSwitch *lhs){
+        cout << "Light is already off\n";
+    }
+};
+
+struct OnState : State
+{
+    OnState() {
+        cout << "Light is turned on\n";
+    }
+
+    void off(LightSwitch *lhs) override;
+};
+
+
+
+struct OffState : State
+{
+    OffState() {
+        cout << "Light is turned off\n";
+    }
+
+    void on(LightSwitch *lhs) override;
+};
+
+class LightSwitch
+{
+    State *state;
+public:
+    LightSwitch()  {
+        state = new OffState();
+    }
+    void set_state(State *state)
+    {
+        this->state = state;
+    }
+
+    void on(){
+        state->on(this);
+    }
+    void off(){
+        state->off(this);
+    }
+};
+
+void OnState::off(LightSwitch *ls) {
+    cout << "Switching light off... \n";
+    ls->set_state(new OffState());
+    delete this;
+}
+
+void OffState::on(LightSwitch *ls) {
+    cout << "Switching light on... \n";
+    ls->set_state(new OnState());
+    delete this;
+}
+
+
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    LightSwitch ls;
+    ls.on();
+    ls.off();
+    ls.off();
     return 0;
 }
